@@ -1,3 +1,3 @@
-# cianspetitions
+# example
 
 This is written from IntelliJ
